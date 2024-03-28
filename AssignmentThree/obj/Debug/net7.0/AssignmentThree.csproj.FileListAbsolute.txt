@@ -1,0 +1,14 @@
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.AssemblyInfoInputs.cache
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.AssemblyInfo.cs
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\prash\AssignmentThree\bin\Debug\net7.0\AssignmentThree.exe
+C:\Users\prash\AssignmentThree\bin\Debug\net7.0\AssignmentThree.deps.json
+C:\Users\prash\AssignmentThree\bin\Debug\net7.0\AssignmentThree.runtimeconfig.json
+C:\Users\prash\AssignmentThree\bin\Debug\net7.0\AssignmentThree.dll
+C:\Users\prash\AssignmentThree\bin\Debug\net7.0\AssignmentThree.pdb
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.dll
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\refint\AssignmentThree.dll
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.pdb
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\AssignmentThree.genruntimeconfig.cache
+C:\Users\prash\AssignmentThree\obj\Debug\net7.0\ref\AssignmentThree.dll
